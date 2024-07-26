@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Project",
+    "slug": "Project",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/g-eats.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.infernondrugs.Project"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "96a0504b-70b5-4302-98d4-5a2701a5c82a"
+      }
+    },
+    "owner": "infernondrugs"
+  }
+}

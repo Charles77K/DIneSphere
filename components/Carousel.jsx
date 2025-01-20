@@ -82,7 +82,7 @@ const Carousel = () => {
   };
 
   const redDotIndicators = () => {
-    return carouselData.map((dot, index) => {
+    return carouselData.map((_, index) => {
       if (activeIndex === index) {
         return <View key={index} style={styles.Dot2}></View>;
       } else {

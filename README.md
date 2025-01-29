@@ -1,6 +1,6 @@
-# Godfrey Eats Mobile Application
+#  DineSphere Mobile Application
 
-Godfrey Eats is a mobile application built with React Native designed to simplify food ordering and delivery for users. It provides a seamless interface for browsing menus, placing orders, and tracking deliveries from the comfort of your phone.
+DineSphere is a mobile application built with React Native designed to simplify food ordering and delivery for users. It provides a seamless interface for browsing menus, placing orders, and tracking deliveries from the comfort of your phone.
 
 ## Features
 
@@ -16,7 +16,7 @@ Godfrey Eats is a mobile application built with React Native designed to simplif
 - **Frontend**: React Native for a responsive and cross-platform mobile application.
 - **Backend**: Node.js and Express.js (if applicable).
 - **Database**: MongoDB (or similar database, if used).
-- **State Management**: Context API/Redux for managing global state.
+- **State Management**: Redux for managing global state.
 
 ## Installation Guide
 
